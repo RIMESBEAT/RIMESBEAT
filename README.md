@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm currently learning HTML5 and CSS
 
 <!--
 **RIMESBEAT/RIMESBEAT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
